@@ -15,9 +15,9 @@ Bu depo, kullanıcıların müzik çalma listelerini oluşturmasına ve paylaşm
 
 <h1> Kullanılan Teknojiler </h1>
 <hr>
--  HTML5 <br>
--  Css <br>
--  JavaScript <br>
+-   HTML5 <br>
+-   Css <br>
+-   JavaScript <br>
 
 <h1> Ekran Görünütüsü</h1>
 
